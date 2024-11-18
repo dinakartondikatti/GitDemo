@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Adavance_Python/.idea/Adavance_Python.iml" filepath="$PROJECT_DIR$/../Adavance_Python/.idea/Adavance_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyPython.iml" filepath="$PROJECT_DIR$/.idea/MyPython.iml" />
+    </modules>
+  </component>
+</project>
