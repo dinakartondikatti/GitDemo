@@ -1,7 +1,8 @@
 # conditions for selecting candidate in an interview
 # 1. Must know python language
 # 2. Must have more than 60%
-# 3. Must be know basic manual
+# 3. Must know basic of  database 
+# 4. Must be know basic manual
 
 py_lang = input("Do you know python language:(y/n)")
 marks = int(input("Enter your % of marks in degree"))
@@ -13,3 +14,5 @@ elif(py_lang=='n' and marks>= 60 and testing_manual=="y"):
     print("You are on hold")
 else:
     print("your not selected")
+
+print("hello wolrd crearecd d")
